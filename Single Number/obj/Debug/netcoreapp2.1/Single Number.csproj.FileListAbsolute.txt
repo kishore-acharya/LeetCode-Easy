@@ -1,0 +1,10 @@
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\Single Number\bin\Debug\netcoreapp2.1\Single Number.deps.json
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\Single Number\bin\Debug\netcoreapp2.1\Single Number.runtimeconfig.json
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\Single Number\bin\Debug\netcoreapp2.1\Single Number.runtimeconfig.dev.json
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\Single Number\bin\Debug\netcoreapp2.1\Single Number.dll
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\Single Number\bin\Debug\netcoreapp2.1\Single Number.pdb
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\Single Number\obj\Debug\netcoreapp2.1\Single Number.csproj.CoreCompileInputs.cache
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\Single Number\obj\Debug\netcoreapp2.1\Single Number.AssemblyInfoInputs.cache
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\Single Number\obj\Debug\netcoreapp2.1\Single Number.AssemblyInfo.cs
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\Single Number\obj\Debug\netcoreapp2.1\Single Number.dll
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\Single Number\obj\Debug\netcoreapp2.1\Single Number.pdb

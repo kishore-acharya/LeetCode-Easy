@@ -1,0 +1,10 @@
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.deps.json
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.runtimeconfig.json
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.runtimeconfig.dev.json
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.dll
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.pdb
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.dll
+C:\Users\kishoreacharya\source\repos\LeetCode\LeetCode-Easy\LeetCode-Easy\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.pdb
