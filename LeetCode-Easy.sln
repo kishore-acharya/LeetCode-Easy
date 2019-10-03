@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contains Duplicate", "Conta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roman To Integer", "Roman To Integer\Roman To Integer.csproj", "{48B7F7DA-36D2-4ABB-A878-F3E632BE461E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Best Time To Buy And Sell Stock II", "Best Time To Buy And Sell Stock II\Best Time To Buy And Sell Stock II.csproj", "{B0029921-0F98-45DB-8102-BB9AA0B37EAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{48B7F7DA-36D2-4ABB-A878-F3E632BE461E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48B7F7DA-36D2-4ABB-A878-F3E632BE461E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48B7F7DA-36D2-4ABB-A878-F3E632BE461E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0029921-0F98-45DB-8102-BB9AA0B37EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0029921-0F98-45DB-8102-BB9AA0B37EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0029921-0F98-45DB-8102-BB9AA0B37EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0029921-0F98-45DB-8102-BB9AA0B37EAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
