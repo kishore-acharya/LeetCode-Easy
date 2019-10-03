@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majority Element", "Majorit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Anagram", "Valid Anagram\Valid Anagram.csproj", "{A837F833-EB32-466B-B23B-5C67102D28B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contains Duplicate", "Contains Duplicate\Contains Duplicate.csproj", "{745329C8-7409-4831-A299-EF2D02D33771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roman To Integer", "Roman To Integer\Roman To Integer.csproj", "{48B7F7DA-36D2-4ABB-A878-F3E632BE461E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{A837F833-EB32-466B-B23B-5C67102D28B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A837F833-EB32-466B-B23B-5C67102D28B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A837F833-EB32-466B-B23B-5C67102D28B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745329C8-7409-4831-A299-EF2D02D33771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745329C8-7409-4831-A299-EF2D02D33771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745329C8-7409-4831-A299-EF2D02D33771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745329C8-7409-4831-A299-EF2D02D33771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48B7F7DA-36D2-4ABB-A878-F3E632BE461E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B7F7DA-36D2-4ABB-A878-F3E632BE461E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B7F7DA-36D2-4ABB-A878-F3E632BE461E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B7F7DA-36D2-4ABB-A878-F3E632BE461E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
