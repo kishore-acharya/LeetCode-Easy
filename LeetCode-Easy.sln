@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeros", "MoveZeros\Move
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majority Element", "Majority Element\Majority Element.csproj", "{34BBC8DF-919A-48F9-BB7D-FEB9AC23B373}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Anagram", "Valid Anagram\Valid Anagram.csproj", "{A837F833-EB32-466B-B23B-5C67102D28B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{34BBC8DF-919A-48F9-BB7D-FEB9AC23B373}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34BBC8DF-919A-48F9-BB7D-FEB9AC23B373}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34BBC8DF-919A-48F9-BB7D-FEB9AC23B373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A837F833-EB32-466B-B23B-5C67102D28B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A837F833-EB32-466B-B23B-5C67102D28B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A837F833-EB32-466B-B23B-5C67102D28B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A837F833-EB32-466B-B23B-5C67102D28B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
